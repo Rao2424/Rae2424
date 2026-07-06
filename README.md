@@ -4,18 +4,18 @@
 # Hi, I'm Rao 🦆
 
 *Java Backend Developer · AI Agent Explorer · Shenzhen / Wuhan, China*  
-*Java 后端开发 · AI Agent 探索者 · 中国深圳 / 武汉*
+*Java 后端开发 · AI Agent 探索者 · 中国深圳 /*
 
 </div>
 
 ---
 
-### 🧑‍💻 About / 关于我  [博客](https://你的博客地址)
+### 🧑‍💻 About / 关于我  
 
 - 🛡️ 关注后端系统开发，尤其是规则执行、缓存、消息队列和稳定性建设
 - 🤖 持续探索 AI Agent、RAG、自动化工具和代码生成
 - 🌱 喜欢把复杂业务拆成清晰、可靠、可维护的系统
-- 🚀 目标方向：Java 后端、风控系统、AI 应用工程化
+- 🚀 目标方向：Java 后端、AI 应用工程化
 
 ---
 
